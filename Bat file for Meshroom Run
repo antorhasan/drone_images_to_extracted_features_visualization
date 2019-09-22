@@ -1,0 +1,33 @@
+::meshroomCMD.bat
+
+:: Start with some parameters unique to your computer...
+
+::Meshroom location - CHANGE THIS 
+
+SET meshRoomBin="C:\MeshroomExtra\Meshroom-2019.2.0"
+
+:: Now setup variables based on current directory/folder name
+
+:: Current location
+
+set currDir=%CD%
+
+:: Make current foldername into a variable
+
+SET "MYDIR=%~p0"
+
+set MYDIR1=%MYDIR:~0,-1%
+
+for %%f in (%MYDIR1%) do set myfolder=%%~nxf
+
+:: Set Working Directory (windows) - CHANGE THIS TOO (LEAVE %MYFOLDER%)
+
+set workDir="C:\MeshroomExtra\OUTPUT2\%myfolder%"
+
+
+
+:: Make a new folder to put meshroom outputs in.
+
+mkdir %workDir%
+
+%meshRoomBin%\meshroom_photogrammetry.exe --input . --output %workdir% --scale 2
