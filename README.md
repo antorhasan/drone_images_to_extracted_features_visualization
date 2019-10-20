@@ -20,6 +20,6 @@
 - Further use of Mesh data for calculating optimum area for solar panels in any given region, Flood Delineation using DSM and Feature Extraction from 3D models are being looked into at the moment.
 
 
-**Output from photogrammetry pipeline :**
+**Video of Output from Photogrammetry Pipeline :**
 
 [![IMAGE ALT TEXT HERE](https://github.com/antorhasan/drone_prj/blob/master/drone_home.png)](https://www.youtube.com/watch?v=odiGVLqg5V8&feature=youtu.be)
