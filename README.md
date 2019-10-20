@@ -1,4 +1,4 @@
-# Prdocue 3D Models from Drone Images Using Photogrammetry and Visualize Extracted Features from 2D and 3D drone data
+# Create Rich Dataset of Drone Images with 3D models, DSM, DTM, Ortho Images produced Using Photogrammetry Pipeline and Visualize Extracted Features from the 2D and 3D Drone Data
 
 **Objectives :** 
 
