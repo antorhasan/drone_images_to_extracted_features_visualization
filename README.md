@@ -1,11 +1,13 @@
-# Create Rich Dataset of Drone Images with 3D models, DSM, DTM, Ortho Images produced Using Photogrammetry Pipeline and Visualize Extracted Features from the 2D and 3D Drone Data
+# Create Rich Dataset of Drone Images with 3D models, DSM, DTM, Ortho Images produced Using Photogrammetry Pipeline and Visualize Extracted Features from the 2D and 3D Drone Data.
 
 **Objectives :** 
 
+- Make a rich dataset of and from images captured by a drone
 - Collect overlapped aerial images using DJI Mavic 2 pro
 - Compare photogrammetry pipelines to find a suitable fit to produce DSM,DTM,Ortho Image and 3D Mesh or Point Cloud Data
 - Setup a browser application to view processed Mesh Object data, Ortho Image, Simplified Buildings in a map like environment
 - Setup Automatic Feature Extraction Algorithms for 2D and 3D data to be viewed in the browser application 
+- Use the rich drone dataset for Deep Learning Research
 
 **Methods :**
 
