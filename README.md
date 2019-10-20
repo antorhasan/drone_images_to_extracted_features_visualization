@@ -22,4 +22,4 @@
 
 **Video of Output from Photogrammetry Pipeline :**
 
-[![IMAGE ALT TEXT HERE](https://github.com/antorhasan/drone_prj/blob/master/drone_home.png)](https://www.youtube.com/watch?v=odiGVLqg5V8&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](https://github.com/antorhasan/drone_prj/blob/master/new.png)](https://www.youtube.com/watch?v=odiGVLqg5V8&feature=youtu.be)
